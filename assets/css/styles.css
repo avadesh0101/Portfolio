@@ -603,6 +603,7 @@ img{
 
   .nav_toggle, .nav_logo, .nav_close{
     display: none;
+    color: white;
   }
 
   .nav_menu{
